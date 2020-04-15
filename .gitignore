@@ -25,3 +25,5 @@ rabbit_mq_hello_world-*.tar
 # Ignore VSCode extension files
 .elixir_ls
 
+# Ignore logs
+/log
